@@ -51,7 +51,7 @@ st.title('All Delivery Forms Report')
 - Part 1: Overall view - Sales by Delivery Form, Top Brands.
 - Part 2: Top Ingredients
 - Part 3: View By Functionality
-- All the data is based on May'21 - January'22 Amazon Best Sellers Rankings in Dietaty Supplements Category. Fluid Forms are excluded (drops, oils, liquids).
+- All the data is based on May'21 - Apr'22 Amazon Best Sellers Rankings in Dietaty Supplements Category. Fluid Forms are excluded (drops, oils, liquids).
 """
 st.write("---")
 # Filters
